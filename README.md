@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=30&pause=1000&color=0FFFFF&width=435&lines=Salve!+Sou+Kelton!+%F0%9F%98%8E;Programador+e+Youtuber+%F0%9F%98%85" alt="Typing SVG" /></a>
 </div>
 
 <img align="center" alt="" src="https://raw.githubusercontent.com/KeltonPG/KeltonPG/main/src/header-gif.gif">
