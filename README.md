@@ -1,83 +1,67 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=30&pause=1000&color=0FFFFF&width=435&lines=Salve!+Sou+Kelton!+%F0%9F%98%8E;Programador+e+Youtuber+%F0%9F%98%85" alt="Typing SVG" /></a>
+  <img height="150" src="https://media.giphy.com/media/xaO6TmgQmKEQ4516sE/giphy.gif?cid=ecf05e47zf7w82i4wusse25w5nk8o51c1afg5gfhvvw7q0g1&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
-<img align="center" alt="" src="https://raw.githubusercontent.com/KeltonPG/KeltonPG/main/src/header-gif.gif">
+###
 
-#
-
-<p align="center">
-  Estudante de Front-End. Apaixonado por tecnologia e aprendizado contínuo. Focado em Front-End e criando experiências web incríveis.
-</p>
-
-#
-
-<img align="right" alt="" height="190px" src="https://raw.githubusercontent.com/KeltonPG/KeltonPG/main/src/study.gif">
-
-<h3 align="left">Connect with me!</h3>
-
-<p align="left">
-
-
-<p align="left">
-  <a href="https://instagram.com/kelton.ks" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00FFFF&color:FFF" target="_blank">
-  </a>
-  <a href="https://www.twitch.tv/kelton_pg" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-000?style=for-the-badge&logo=twitch&logoColor=00FFFF" target="_blank">
-  </a>
-  <a href = "mailto:keltonsantos509@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=00FFFF" target="_blank">
-  </a>
+<div align="center">
   <a href="https://www.linkedin.com/in/kelton-kaua" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FFFF" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-</p>
-
-### 📺 Meu Canal no YouTube
-
-<p align="center">
-  No meu canal, Knori, eu compartilho vídeos sobre Minecraft e outros jogos. No futuro, quero trazer mais conteúdos sobre tecnologia e vlogs.
-</p>
-  <a href="https://www.youtube.com/@KnoriOFC?sub_confirmation=1">
-    <img 
-      alt="youtube subscribers" 
-      title="Inscreva-se no meu canal" 
-      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCjTYHg6RKif45F6sVA4LbkQ?style=for-the-badge&label=Inscreva-se&logo=video&logoColor=white&color=black&labelColor=00BFFF&bg_color=000000&border_color=00FFFF"
-    />
+  <a href="https://www.youtube.com/@KnoriOFC?sub_confirmation=1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://www.youtube.com/@KnoriOFC">
-    <img 
-      alt="youtube views" 
-      title="Vizualizações no YouTube" 
-      src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCjTYHg6RKif45F6sVA4LbkQ?style=for-the-badge&logo=eye&logoColor=white&color=black&labelColor=00BFFF&bg_color=000000&border_color=00FFFF"
-    />
+  <a href="https://instagram.com/kelton.ks" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-</p>
+  <a href="mailto:keltonsantos509@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-<h3 align="left">My Stack ~</h3>
+###
+
+<h1 align="center">Bem vindo! Me chamo Kelton.</h1>
+
+###
+
+<h3 align="left">👩‍💻  Sobre mim</h3>
+
+###
+
+<p align="left">Sou do Brasil<br><br>- 🔭 Faculdade de Biomedicina<br>- 📚 Aprendendo Front End<br>- ⚡ Sempre tentando melhorar e aprender</p>
+
+###
+
+<h3 align="left">🛠 Linguagens e ferramentas</h3>
+
+###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
 
-#
+###
 
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=KeltonPG&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=00FFFF&text_color=FFF&border_radius=3&border_color=36123c&icon_color=00FFFF&theme=jolly" alt="GitHub stats">
+<h3 align="left">🔥   Meu status:</h3>
 
-  <a href="https://github.com/KeltonPG/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KeltonPG&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00FFFF&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KeltonPG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KeltonPG&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeltonPG&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
-#
+###
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KeltonPG/KeltonPG/output/github-contribution-grid-snake-dark.svg">
