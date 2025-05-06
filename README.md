@@ -69,7 +69,7 @@
 <h3 align="left">🚧 Projetos atuais</h3>
 
 <p align="left">
-  (em breve...)
+  Site para Igreja
 </p>
 
 ---
